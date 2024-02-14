@@ -51,13 +51,11 @@ Open a new command prompt window and type pdftoppm -v. You should see the versio
 To convert a PDF file to images, run the following command in your terminal or command prompt:
   
 ```bash 
-python3 script.py --p path/to/your/pdf/file.pdf --t 8
+python3 script.py --p path/to/your/pdf/file.pdf
 ```
-## You can also specify the number of threads to use for the conversion process using the --t (or --threads) parameter. By default, the script uses 4 threads for the conversion process.
-
 ## Example
 
 ```bash
-python script.py --p example.pdf --t 8
+python script.py --p example.pdf
 
 ``` 
