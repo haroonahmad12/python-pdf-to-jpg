@@ -56,6 +56,6 @@ python3 script.py --p path/to/your/pdf/file.pdf
 ## Example
 
 ```bash
-python script.py --p example.pdf
+python3 script.py --p example.pdf
 
 ``` 
